@@ -17,3 +17,7 @@ This project demonstrates a simple feedback form that collects restaurant rating
 - Django
 - Python
 - No database yet – just console printout of submitted data
+
+## Run
+FlutterProjects\restaurant_feedback_backend> python manage.py runserver
+FlutterProjects\restaurant_feedback_app> flutter run -d web-server
